@@ -1,0 +1,3 @@
+EC2 Instance DMZ Public IP: 47.128.241.211
+EC2 Instance internal Private IP: 10.0.2.52
+RDS Endpoint: terraform-20240330190013194000000002.cnyeksooqltk.ap-southeast-1.rds.amazonaws.com:3306
